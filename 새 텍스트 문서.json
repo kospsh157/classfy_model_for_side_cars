@@ -1,0 +1,4 @@
+[
+    {"filename": "car_side_001.jpg", "label": "측면"},
+    {"filename": "car_front_001.jpg", "label": "측면 아님"}
+]
